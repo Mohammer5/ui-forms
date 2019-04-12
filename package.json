@@ -1,0 +1,20 @@
+{
+  "name": "ui-form",
+  "version": "0.1.0",
+  "main": "build/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/addon-notes": "^5.0.6",
+    "@storybook/react": "^5.0.6",
+    "chai-colors": "^1.0.1",
+    "cypress": "^3.2.0",
+    "cypress-cucumber-preprocessor": "^1.11.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "storybook-addon-jsx": "^7.1.0"
+  },
+  "peerDependencies": {
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  }
+}
